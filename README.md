@@ -1,16 +1,121 @@
-## Hi there 👋
+# Olá, eu sou Matheus Henrique 👋
 
-<!--
-**Matheus-Henlp/Matheus-Henlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `Student Developer` | `Future Full Stack Developer`
 
-Here are some ideas to get you started:
+Estudante e desenvolvedor em formação, atualmente focado em **desenvolvimento web**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu objetivo é estudar **Análise e Desenvolvimento de Software no Canadá** e, no futuro, atuar como **Full Stack Developer**.
+
+---
+
+## Sobre mim
+
+* Atualmente estudando programação e desenvolvimento web
+* Aprendendo **JavaScript**
+* Conhecimentos em **HTML & CSS**
+* Utilizo **VS Code** no desenvolvimento
+* Criando projetos para aprender na prática
+* Buscando evoluir constantemente como desenvolvedor
+* Futuro estudante de **Análise e Desenvolvimento de Software**
+* Objetivo: me tornar **Full Stack Developer**
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
+</p>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Henlp&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&border_color=8b5cf6"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Henlp&layout=compact&langs_count=8&theme=transparent&title_color=a855f7&text_color=c9d1d9&border_color=8b5cf6"/>
+
+</div>
+
+---
+
+## GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Matheus-Henlp&theme=transparent&hide_border=false&border=8b5cf6&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=888888"/>
+
+</div>
+
+---
+
+## My Journey
+
+```text
+2026
+│
+├── HTML & CSS
+├── JavaScript
+├── Git & GitHub
+└── Personal Projects
+        │
+        ▼
+2027+
+│
+├── JavaScript Advanced
+├── Frameworks
+├── Backend
+└── Databases
+        │
+        ▼
+Future
+│
+├── Software Development
+├── Canada 🇨🇦
+└── Full Stack Developer
+```
+
+---
+
+## Projects
+
+Todos os meus projetos estão disponíveis nos meus repositórios.
+
+Cada projeto representa uma oportunidade para **aprender, experimentar e evoluir** como desenvolvedor.
+
+---
+
+## Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
+</p>
+
+---
+
+## Connect with me
+
+<p align="left">
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-m4theux__zk-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Building. Learning. Improving.
+
+</div>
