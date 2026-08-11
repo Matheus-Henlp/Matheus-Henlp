@@ -34,18 +34,6 @@ Meu objetivo é estudar **Análise e Desenvolvimento de Software no Canadá** e,
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Henlp&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&border_color=8b5cf6"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Henlp&layout=compact&langs_count=8&theme=transparent&title_color=a855f7&text_color=c9d1d9&border_color=8b5cf6"/>
-
-</div>
-
----
-
 ## GitHub Streak
 
 <div align="center">
